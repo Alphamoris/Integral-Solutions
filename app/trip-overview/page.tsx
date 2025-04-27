@@ -203,7 +203,7 @@ export default function TripOverview() {
                     className="h-20 w-20 object-cover rounded-lg"
                   />
                   <div className="flex-1">
-                    <h3 className="text-white font-medium">Senso-ji Temple & Nakamise Shopping Street</h3>
+                    <h3 className="text-white font-medium">Senso-ji & Nakamise Shopping Street</h3>
                     <p className="text-white text-xs mt-1">Senso-ji</p>
                     <div className="mt-1">
                       <p className="text-xs text-gray-400">Timing: 8:15 am Morning</p>
