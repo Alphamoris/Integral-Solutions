@@ -7,7 +7,7 @@ export function FlightDetails() {
   return (
     <Card className="dark:bg-[#1c1a1b] bg-white/90 dark:border-[#2c2a2b] border-gray-200 my-6">
       <CardHeader>
-        <CardTitle className="dark:text-white text-gray-900 text-lg">Flight Dtails</CardTitle>
+        <CardTitle className="dark:text-white text-gray-900 text-lg">Flight Details</CardTitle>
       </CardHeader>
       <CardContent>
         <div className="space-y-6">

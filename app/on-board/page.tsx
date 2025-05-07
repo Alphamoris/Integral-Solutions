@@ -155,7 +155,7 @@ export default function OnBoard() {
         <div className="mt-auto mb-8">
           <Button 
             type="submit" 
-            className="w-full h-14 mt-6 rounded-xl text-white bg-indigo-600 hover:bg-indigo-700 text-lg font-medium"
+            className="w-full h-14 mt-6 mb-24 rounded-xl text-white bg-indigo-600 hover:bg-indigo-700 text-lg font-medium"
             disabled={isSubmitting}
           >
             {isSubmitting ? "Creating Trip..." : "Continue"}
