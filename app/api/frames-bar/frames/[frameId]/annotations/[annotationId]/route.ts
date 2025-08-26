@@ -8,6 +8,7 @@
 
 
 
+
 import { NextResponse } from "next/server";
 
 // Use the same mock data as in the annotations list endpoint
